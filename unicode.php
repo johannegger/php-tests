@@ -122,7 +122,7 @@
         "y" => "têst str@ngæ chá®ã©têrs ±∑ü",
         "u" => "têst str@ngæ chá®ã©têrs ±∑ü",
         "i" => "têst str@ngæ chá®ã©têrs ±∑ü",
-        "ø" => "têst str@ngæ chá®ã©têrs ±∑ü"
+        "ø" => "têst str@ngæ chá®ã©têrs ±∑ü");
     }
   }
 ?>
