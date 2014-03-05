@@ -114,8 +114,15 @@
         "6" => "têst str@ngæ chá®ã©têrs ±∑ü",
         "8" => "têst str@ngæ chá®ã©têrs ±∑ü",
         "7" => "têst str@ngæ chá®ã©têrs ±∑ü",
-        "0" => "têst str@ngæ chá®ã©têrs ±∑ü",
-    
+        "q" => "têst str@ngæ chá®ã©têrs ±∑ü",
+        "w" => "têst str@ngæ chá®ã©têrs ±∑ü",
+        "e" => "têst str@ngæ chá®ã©têrs ±∑ü",
+        "r" => "têst str@ngæ chá®ã©têrs ±∑ü",
+        "t" => "têst str@ngæ chá®ã©têrs ±∑ü",
+        "y" => "têst str@ngæ chá®ã©têrs ±∑ü",
+        "u" => "têst str@ngæ chá®ã©têrs ±∑ü",
+        "i" => "têst str@ngæ chá®ã©têrs ±∑ü",
+        "ø" => "têst str@ngæ chá®ã©têrs ±∑ü"
     }
   }
 ?>
