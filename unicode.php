@@ -1,5 +1,8 @@
 <?php
   class SedanFactory implements CarFactory {
+      //short variable name
+      $t = "Hello world!";
+      
       public function makeCar() {
         $lang = array(
         "stuff1" => "têst str@ngæ chá®ã©têrs ±∑ü",
