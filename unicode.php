@@ -3,6 +3,10 @@
       //short variable name
       $t = "Hello world!";
       
+      $f = "Hello world!";
+      $w = "Hello world!";
+      
+      
       public function makeCar() {
         $lang = array(
         "stuff1" => "têst str@ngæ chá®ã©têrs ±∑ü",
